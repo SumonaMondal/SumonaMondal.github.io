@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremy Clark | Sumona Mondal</title>
+    <link>https://smondal.github.io/author/jeremy-clark/</link>
+      <atom:link href="https://smondal.github.io/author/jeremy-clark/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeremy Clark</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Apr 2022 04:22:49 +0000</lastBuildDate>
+    <image>
+      <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jeremy Clark</title>
+      <link>https://smondal.github.io/author/jeremy-clark/</link>
+    </image>
+    
+    <item>
+      <title>Differential impact of COVID-19 risk factors on ethnicities in the United States</title>
+      <link>https://smondal.github.io/publication/athavale-2021-differential/</link>
+      <pubDate>Sun, 17 Apr 2022 04:22:49 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/athavale-2021-differential/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

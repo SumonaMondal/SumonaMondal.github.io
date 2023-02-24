@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shantanu Sur | Sumona Mondal</title>
+    <link>https://smondal.github.io/author/shantanu-sur/</link>
+      <atom:link href="https://smondal.github.io/author/shantanu-sur/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shantanu Sur</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Shantanu Sur</title>
+      <link>https://smondal.github.io/author/shantanu-sur/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the source components captured by the Purple Air Network</title>
+      <link>https://smondal.github.io/publication/kumar-2023-understanding/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/kumar-2023-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 in the United States during pre-vaccination period Shifting impact of sociodemographic factors and air pollution</title>
+      <link>https://smondal.github.io/publication/chaipitakporn-2022-covid/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/chaipitakporn-2022-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Source Components Captured by the Purple Air Network</title>
+      <link>https://smondal.github.io/talk/understanding-the-source-components-captured-by-the-purple-air-network/</link>
+      <pubDate>Mon, 03 Oct 2022 08:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/talk/understanding-the-source-components-captured-by-the-purple-air-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential impact of COVID-19 risk factors on ethnicities in the United States</title>
+      <link>https://smondal.github.io/publication/athavale-2021-differential/</link>
+      <pubDate>Sun, 17 Apr 2022 04:22:49 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/athavale-2021-differential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 in New York state: Effects of demographics and air quality on infection and fatality</title>
+      <link>https://smondal.github.io/publication/mondal-2022-covid/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/mondal-2022-covid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

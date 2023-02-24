@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supraja Gurajala | Sumona Mondal</title>
+    <link>https://smondal.github.io/author/supraja-gurajala/</link>
+      <atom:link href="https://smondal.github.io/author/supraja-gurajala/index.xml" rel="self" type="application/rss+xml" />
+    <description>Supraja Gurajala</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Supraja Gurajala</title>
+      <link>https://smondal.github.io/author/supraja-gurajala/</link>
+    </image>
+    
+    <item>
+      <title>Understanding the source components captured by the Purple Air Network</title>
+      <link>https://smondal.github.io/publication/kumar-2023-understanding/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/kumar-2023-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the Source Components Captured by the Purple Air Network</title>
+      <link>https://smondal.github.io/talk/understanding-the-source-components-captured-by-the-purple-air-network/</link>
+      <pubDate>Mon, 03 Oct 2022 08:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/talk/understanding-the-source-components-captured-by-the-purple-air-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19 in New York state: Effects of demographics and air quality on infection and fatality</title>
+      <link>https://smondal.github.io/publication/mondal-2022-covid/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/mondal-2022-covid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
