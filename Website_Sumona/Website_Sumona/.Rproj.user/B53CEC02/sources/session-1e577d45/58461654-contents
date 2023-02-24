@@ -1,0 +1,30 @@
+---
+abstract: PM2.5 has been linked to numerous pollution-mediated adverse health effects and their monitoring is key for taking preventative and mitigative measures. Accurate measurements of PM2.5concentrations are available at EPA sites, but such data lacks spatial resolution due to a limited number of monitoring locations. In recent years the deployment of low-cost sensor networks has opened up the possibility of acquiring air quality data at a high spatiotemporal resolution. However, the sensitivity, noise, and accuracy of data acquired by low-cost sensors remain a concern. Here, we studied PM2.5 measurements made from EPA and Purple Air (PA) sensor networks in the Chicago area to understand the parameters influencing the performance characteristics of the low-cost sensor network. We decomposed the PM2.5time series data into short-term, seasonal, and long-term components using the Kolmogorov–Zurbenko filter. We then extracted different frequency signals of PM2.5data for each of the filtered components. Our analysis shows that the meteorological variables such as temperature, humidity, wind speed, and wind direction impact the long-term trends of PM2.5 but do not have any influence on the short-term component. Furthermore, the PA sensor data capture long-term variations in the PM2.5 data with reasonable accuracy, while the short-term variations (<12 hours) are less clear in comparison to the EPA data. We hypothesize that the low-cost sensor networks may have different detection sensitivity to aerosol from different sources and hence care must be taken in their use for evaluating the impact of air quality mitigation policies.
+address:
+  city: Stanford
+  country: United States
+  postcode: "91101"
+  region: CA
+  street: 300 E Green St
+all_day: false
+authors: [VIJAY KUMAR , Dinushani Senarathna, Supraja Gurajala , William Olsen, Shantanu Sur , Sumona Mondal, Suresh Dhaniyala]
+date: "2022-05-11T8:00:00Z"
+date_end: "2022-05-13T18:00:00Z"
+event: Air Sensors International Conference
+event_url: https://asic.aqrc.ucdavis.edu
+featured: false
+image:
+  caption:
+  focal_point: Right
+links:
+location: Pasadena California
+publishDate: "2022-04-19T00:00:00Z"
+summary: Poster Presentation at Air Sensor International Conference (ASIC) - 2022
+tags: []
+title: Spectral analysis of low-cost sensor network data
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+

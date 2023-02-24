@@ -1,0 +1,27 @@
+---
+authors:
+- admin
+categories:
+- Story Map
+- ArcGis
+date: "2022-04-28T00:00:00Z"
+draft: false
+featured: false
+image:
+  caption: 'Image credit: [**Cleverciti**](https://www.cleverciti.com/en/why-cleverciti/reduce-unnecessary-emissions)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+lastmod: "2022-04-28T00:00:00Z"
+projects: []
+subtitle: "Traffic-related air pollution before & after the COVID-19 lockdown in populated counties of the US."
+summary: "The GIS analysis of traffic-related air pollution (NO2) in populated counties has revealed an interesting pattern in the data."
+tags:
+- Academic
+title: Traffic-related Air Pollution
+---
+
+
+## ArcGis story map link attached below:
+
+- 👉 [**ArcGIS Story Map**](https://storymaps.arcgis.com/stories/45dbb258dba24ef1bc43d52fa8795ebc)

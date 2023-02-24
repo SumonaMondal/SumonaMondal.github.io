@@ -1,0 +1,58 @@
+---
+bio: My research interests include applied mathematics, statistics, air quality modeling, 
+  matter.
+education:
+  courses:
+  - course: PhD Mathematics
+    institution: Clarkson University, Potsdam-NY
+    year: 2018-2023
+  - course: MS Applied Data Science
+    institution: Clarkson University, Potsdam-NY
+    year: 2022-2023
+  - course: MS Mathematics
+    institution: Clarkson University, Potsdam-NY
+    year: 2021
+  - course: MS Applied Mathematics
+    institution: NED University, Karachi
+    year: 2016
+  - course: BS in Mathematics
+    institution: University of Sindh, Jamshoro
+    year: 2009
+email: "vikumar@clarkson.edu"
+highlight_name: true
+interests:
+- Applied Mathematics
+- Air Quality Modeling
+- Statistics
+- GIS 
+- Data Science
+- Machine Learning
+organizations:
+- name: Clarkson University
+  url: https://www.clarkson.edu/
+role: PhD Candidate in Mathematics
+social:
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
+- display:
+    header: true
+  icon: twitter
+  icon_pack: fab
+  label: Follow me on Twitter
+  link: https://twitter.com/vijayk0mar
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?hl=en&user=Z-ifN1YAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/vijaykumar18
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/vijay-kumar-5a5b53a3
+superuser: true
+title: Vijay Kumar
+---
+Vijay Kumar is a Ph.D. Candidate at the Department of Mathematics, Clarkson University in Potsdam, NY-USA. His research interest lies in Applied Mathematics, Statistics, Air-Quality modeling, Data Science & Machine Learning. He is currently working on Air-Quality modeling, predicting, and analyzing public health factors including Air Pollution.
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

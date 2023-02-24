@@ -1,0 +1,52 @@
+---
+bio: My research interests includes statistics, data science, 
+  matter.
+education:
+  courses:
+  - course: Ph.D. in Mathematics (Statistics concentration)
+    institution: University of Louisiana at Lafayette
+    year: 2007
+  - course: MS in Mathematics
+    institution: University of Louisiana at Lafayette
+    year: 2004
+  - course: MSc in Statistics
+    institution: University of Calcutta, India
+    year: 2000
+  - course: BSc in Statistics
+    institution: University of Calcutta, India
+    year: 1998
+email: "smondal@clarkson.edu"
+highlight_name: true
+interests:
+- Statistics
+- Data Science
+- Public Health
+organizations:
+- name: Clarkson University
+  url: https://www.clarkson.edu/
+role: Associate Professor in Mathematics
+social:
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
+- display:
+    header: true
+  icon: twitter
+  icon_pack: fab
+  label: Follow me on Twitter
+  link: https://twitter.com/
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=igAPZlIAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/
+superuser: true
+title: Sumona Mondal
+---
+Sumona Mondal is a Associate Professor at the Department of Mathematics, Clarkson University in Potsdam, NY-USA. Her research interest lies in Statistics, Data Science & Public Health.
+
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

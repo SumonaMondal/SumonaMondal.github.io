@@ -1,0 +1,75 @@
+---
+# An instance of the Accomplishments widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: accomplishments
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
+
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Accomplish&shy;ments'
+subtitle:
+
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+active: true
+date_format: Jan 2006
+
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+- certificate_url: https://www.credly.com/badges/a7ebe0e8-7050-4040-b343-3595a6664cdb?source=linked_in_profile
+  date_end: ""
+  date_start: "2022-05-04"
+  description: "Course by Clarkson University"
+  organization: Clarkson
+  organization_url: https://www.clarkson.edu
+  title: Python Environment and Syntax
+  url: ""
+
+- certificate_url: https://www.dimarcocg.com
+  date_end: ""
+  date_start: "2022-04-28"
+  description: " Four workshops on leadership training by DiMarco Consulting Group"
+  organization: DiMarco 
+  organization_url: 
+  title: Clarkson University Graduate Leadership Development Program
+  url: "https://www.dimarcocg.com"
+  
+- certificate_url: https://www.esri.com/training/catalog/57660ed7bb54adb30c9454a3/do-it-yourself-geo-apps 
+  date_end: ""
+  date_start: "2022-02-28"
+  description: ESRI 4 weeks MOOC on creating a Geo Apps.
+  organization: Esri
+  organization_url: https://www.esri.com
+  title: Do-it-yourself Geo Apps
+  url:
+  
+
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/9666b7ea5fb153cb651a6d83b1c203176d0be5c2?share=true
+  date_end: "2022-01-03"
+  date_start: "2022-01-10"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Intermediate Python'
+  url: ""
+
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/db7c8261107db6008d7d17a31ba0174401b70070?share=true
+  date_end: "2021-12-20"
+  date_start: "2021-12-25"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Introduction to Python'
+  url: ""
+
+design:
+  columns: '2' 
+---
