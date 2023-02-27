@@ -5,7 +5,7 @@
     <link>https://smondal.github.io/author/prashant-athavale/</link>
       <atom:link href="https://smondal.github.io/author/prashant-athavale/index.xml" rel="self" type="application/rss+xml" />
     <description>Prashant Athavale</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Prashant Athavale</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>COVID-19 in the United States during pre-vaccination period Shifting impact of sociodemographic factors and air pollution</title>
-      <link>https://smondal.github.io/publication/chaipitakporn-2022-covid/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/chaipitakporn-2022-covid/</guid>
+      <title>COVID-19 in the United States during pre-vaccination period: Shifting impact of sociodemographic factors and air pollution</title>
+      <link>https://smondal.github.io/publication/chaipitakporn-covid-19-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/chaipitakporn-covid-19-2022/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Differential impact of COVID-19 risk factors on ethnicities in the United States</title>
-      <link>https://smondal.github.io/publication/athavale-2021-differential/</link>
-      <pubDate>Sun, 17 Apr 2022 04:22:49 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/athavale-2021-differential/</guid>
+      <title>Measuring the impact of student success retention initiatives for engineering students at a private research university</title>
+      <link>https://smondal.github.io/publication/wick-measuring-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/wick-measuring-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differential Impact of COVID-19 Risk Factors on Ethnicities in the United States</title>
+      <link>https://smondal.github.io/publication/athavale-differential-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/athavale-differential-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors Influencing Success in Advanced Engineering Mathematics Courses: A Case Study</title>
+      <link>https://smondal.github.io/publication/athavale-factors-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/athavale-factors-2021/</guid>
       <description></description>
     </item>
     

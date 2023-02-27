@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Qian | Sumona Mondal</title>
+    <link>https://smondal.github.io/author/jing-qian/</link>
+      <atom:link href="https://smondal.github.io/author/jing-qian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jing Qian</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jing Qian</title>
+      <link>https://smondal.github.io/author/jing-qian/</link>
+    </image>
+    
+    <item>
+      <title>An evaluation of the impact of flooring types on exposures to fine and coarse particles within the residential micro-environment using CONTAM</title>
+      <link>https://smondal.github.io/publication/bramwell-evaluation-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/bramwell-evaluation-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of walking-induced dust resuspension using a consistent test mechanism</title>
+      <link>https://smondal.github.io/publication/tian-comparative-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/tian-comparative-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

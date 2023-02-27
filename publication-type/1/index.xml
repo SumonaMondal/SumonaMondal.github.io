@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Sumona Mondal</title>
+    <link>https://smondal.github.io/publication-type/1/</link>
+      <atom:link href="https://smondal.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>https://smondal.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Explainable and High-Performance Hate and Offensive Speech Detection</title>
+      <link>https://smondal.github.io/publication/marzieh-babaeianjelodar-explainable-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/marzieh-babaeianjelodar-explainable-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretable and High-Performance Hate and Offensive Speech Detection</title>
+      <link>https://smondal.github.io/publication/babaeianjelodar-interpretable-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/babaeianjelodar-interpretable-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the impact of student success retention initiatives for engineering students at a private research university</title>
+      <link>https://smondal.github.io/publication/wick-measuring-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/wick-measuring-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mood Responses to Various Exercise Types Using the Ontological Definitions of Exercise</title>
+      <link>https://smondal.github.io/publication/barrios-mood-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/barrios-mood-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors Influencing Success in Advanced Engineering Mathematics Courses: A Case Study</title>
+      <link>https://smondal.github.io/publication/athavale-factors-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/athavale-factors-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When trusted black boxes don&#39;t agree: Incentivizing iterative improvement and accountability in critical software systems</title>
+      <link>https://smondal.github.io/publication/matthews-when-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/matthews-when-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian analysis of factors associated with fibromyalgia syndrome subjects</title>
+      <link>https://smondal.github.io/publication/jayawardana-bayesian-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/jayawardana-bayesian-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of anaerobic digestion model no. 1 (ADM1): simulation of dairy manure digestion</title>
+      <link>https://smondal.github.io/publication/zhang-optimization-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/zhang-optimization-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

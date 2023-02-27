@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander K Landauer | Sumona Mondal</title>
+    <link>https://smondal.github.io/author/alexander-k-landauer/</link>
+      <atom:link href="https://smondal.github.io/author/alexander-k-landauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander K Landauer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Alexander K Landauer</title>
+      <link>https://smondal.github.io/author/alexander-k-landauer/</link>
+    </image>
+    
+    <item>
+      <title>Cyclic cryopreservation affects the nanoscale material properties of trabecular bone</title>
+      <link>https://smondal.github.io/publication/landauer-cyclic-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/landauer-cyclic-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

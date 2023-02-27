@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed Ali Torad | Sumona Mondal</title>
+    <link>https://smondal.github.io/author/ahmed-ali-torad/</link>
+      <atom:link href="https://smondal.github.io/author/ahmed-ali-torad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed Ali Torad</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Ahmed Ali Torad</title>
+      <link>https://smondal.github.io/author/ahmed-ali-torad/</link>
+    </image>
+    
+    <item>
+      <title>The Effects of Vision-Deprived Progressive Resistance Training on One-Repetition Maximum Bench Press Performance: An Exploratory Study</title>
+      <link>https://smondal.github.io/publication/boolani-effects-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/boolani-effects-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Lorenz | Sumona Mondal</title>
+    <link>https://smondal.github.io/author/stephen-lorenz/</link>
+      <atom:link href="https://smondal.github.io/author/stephen-lorenz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen Lorenz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Stephen Lorenz</title>
+      <link>https://smondal.github.io/author/stephen-lorenz/</link>
+    </image>
+    
+    <item>
+      <title>Interpretable and High-Performance Hate and Offensive Speech Detection</title>
+      <link>https://smondal.github.io/publication/babaeianjelodar-interpretable-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/babaeianjelodar-interpretable-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When trusted black boxes don&#39;t agree: Incentivizing iterative improvement and accountability in critical software systems</title>
+      <link>https://smondal.github.io/publication/matthews-when-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/matthews-when-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

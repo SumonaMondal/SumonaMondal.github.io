@@ -5,7 +5,7 @@
     <link>https://smondal.github.io/author/marko-budisic/</link>
       <atom:link href="https://smondal.github.io/author/marko-budisic/index.xml" rel="self" type="application/rss+xml" />
     <description>Marko Budisic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Marko Budisic</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>COVID-19 in the United States during pre-vaccination period Shifting impact of sociodemographic factors and air pollution</title>
-      <link>https://smondal.github.io/publication/chaipitakporn-2022-covid/</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/chaipitakporn-2022-covid/</guid>
+      <title>COVID-19 in the United States during pre-vaccination period: Shifting impact of sociodemographic factors and air pollution</title>
+      <link>https://smondal.github.io/publication/chaipitakporn-covid-19-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/chaipitakporn-covid-19-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Model to Analyze the Association of Rheumatoid Arthritis with Risk Factors and Their Interactions</title>
+      <link>https://smondal.github.io/publication/lufkin-bayesian-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://smondal.github.io/publication/lufkin-bayesian-2021/</guid>
       <description></description>
     </item>
     
