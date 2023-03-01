@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sumona Mondal</title>
-    <link>https://smondal.github.io/</link>
-      <atom:link href="https://smondal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sumonamondal.github.io/</link>
+      <atom:link href="https://sumonamondal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sumona Mondal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sumonamondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Sumona Mondal</title>
-      <link>https://smondal.github.io/</link>
+      <link>https://sumonamondal.github.io/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>https://smondal.github.io/courses/example/python/</link>
+      <link>https://sumonamondal.github.io/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/courses/example/python/</guid>
+      <guid>https://sumonamondal.github.io/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>https://smondal.github.io/courses/example/visualization/</link>
+      <link>https://sumonamondal.github.io/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/courses/example/visualization/</guid>
+      <guid>https://sumonamondal.github.io/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>https://smondal.github.io/courses/example/stats/</link>
+      <link>https://sumonamondal.github.io/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/courses/example/stats/</guid>
+      <guid>https://sumonamondal.github.io/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -108,198 +108,210 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Clarkson Ph.D. Candidate Co-Chairs a session at the American Association for Aerosol Research (AAAR)</title>
-      <link>https://smondal.github.io/post/2022-11-04-cunews/</link>
-      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/post/2022-11-04-cunews/</guid>
+      <title>Understanding the Source Components Captured by the Purple Air Network</title>
+      <link>https://sumonamondal.github.io/talk/understanding-the-source-components-captured-by-the-purple-air-network/</link>
+      <pubDate>Mon, 03 Oct 2022 08:00:00 +0000</pubDate>
+      <guid>https://sumonamondal.github.io/talk/understanding-the-source-components-captured-by-the-purple-air-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clarkson Chemistry Professor Awarded $164K Grant from the National Institutes of Health</title>
+      <link>https://sumonamondal.github.io/post/2022-08-23-cunews/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sumonamondal.github.io/post/2022-08-23-cunews/</guid>
       <description>&lt;h2 id=&#34;clarkson-university-news-link-attached-below&#34;&gt;Clarkson University news link attached below:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://www.clarkson.edu/news/clarkson-phd-candidate-co-chairs-session-american-association-aerosol-research-aaar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CU News&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://www.clarkson.edu/news/clarkson-chemistry-professor-awarded-164k-grant-national-institutes-health&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CU News&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Understanding the Source Components Captured by the Purple Air Network</title>
-      <link>https://smondal.github.io/talk/understanding-the-source-components-captured-by-the-purple-air-network/</link>
-      <pubDate>Mon, 03 Oct 2022 08:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/talk/understanding-the-source-components-captured-by-the-purple-air-network/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Characterizing respiratory aerosol emissions during sustained phonation</title>
-      <link>https://smondal.github.io/publication/ahmed-characterizing-2022/</link>
+      <link>https://sumonamondal.github.io/publication/ahmed-characterizing-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/ahmed-characterizing-2022/</guid>
+      <guid>https://sumonamondal.github.io/publication/ahmed-characterizing-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COVID-19 in New York state: Effects of demographics and air quality on infection and fatality</title>
-      <link>https://smondal.github.io/publication/sumona-mondal-covid-19-2022/</link>
+      <link>https://sumonamondal.github.io/publication/sumona-mondal-covid-19-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/sumona-mondal-covid-19-2022/</guid>
+      <guid>https://sumonamondal.github.io/publication/sumona-mondal-covid-19-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>COVID-19 in the United States during pre-vaccination period: Shifting impact of sociodemographic factors and air pollution</title>
-      <link>https://smondal.github.io/publication/chaipitakporn-covid-19-2022/</link>
+      <link>https://sumonamondal.github.io/publication/chaipitakporn-covid-19-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/chaipitakporn-covid-19-2022/</guid>
+      <guid>https://sumonamondal.github.io/publication/chaipitakporn-covid-19-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Explainable and High-Performance Hate and Offensive Speech Detection</title>
-      <link>https://smondal.github.io/publication/marzieh-babaeianjelodar-explainable-2022/</link>
+      <link>https://sumonamondal.github.io/publication/marzieh-babaeianjelodar-explainable-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/marzieh-babaeianjelodar-explainable-2022/</guid>
+      <guid>https://sumonamondal.github.io/publication/marzieh-babaeianjelodar-explainable-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Factors influencing motivation to perform mental and physical tasks during the initial lockdown period of the COVID-19 pandemic</title>
-      <link>https://smondal.github.io/publication/mckone-factors-2022/</link>
+      <link>https://sumonamondal.github.io/publication/mckone-factors-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/mckone-factors-2022/</guid>
+      <guid>https://sumonamondal.github.io/publication/mckone-factors-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interpretable and High-Performance Hate and Offensive Speech Detection</title>
-      <link>https://smondal.github.io/publication/babaeianjelodar-interpretable-2022/</link>
+      <link>https://sumonamondal.github.io/publication/babaeianjelodar-interpretable-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/babaeianjelodar-interpretable-2022/</guid>
+      <guid>https://sumonamondal.github.io/publication/babaeianjelodar-interpretable-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring the impact of student success retention initiatives for engineering students at a private research university</title>
-      <link>https://smondal.github.io/publication/wick-measuring-2022/</link>
+      <link>https://sumonamondal.github.io/publication/wick-measuring-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/wick-measuring-2022/</guid>
+      <guid>https://sumonamondal.github.io/publication/wick-measuring-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mood Responses to Various Exercise Types Using the Ontological Definitions of Exercise</title>
-      <link>https://smondal.github.io/publication/barrios-mood-2022/</link>
+      <link>https://sumonamondal.github.io/publication/barrios-mood-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/barrios-mood-2022/</guid>
+      <guid>https://sumonamondal.github.io/publication/barrios-mood-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Effects of Vision-Deprived Progressive Resistance Training on One-Repetition Maximum Bench Press Performance: An Exploratory Study</title>
-      <link>https://smondal.github.io/publication/boolani-effects-2022/</link>
+      <link>https://sumonamondal.github.io/publication/boolani-effects-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/boolani-effects-2022/</guid>
+      <guid>https://sumonamondal.github.io/publication/boolani-effects-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Trait energy and fatigue modify acute ingestion of an adaptogenic-rich beverage on neurocognitive performance</title>
-      <link>https://smondal.github.io/publication/boolani-trait-2022/</link>
+      <link>https://sumonamondal.github.io/publication/boolani-trait-2022/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/boolani-trait-2022/</guid>
+      <guid>https://sumonamondal.github.io/publication/boolani-trait-2022/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Clarkson University Professors Receive Office of Naval Research Grant for Development of a Viscoelastic-Plastic Approach to Static Strength Prediction of Bonded Joints</title>
+      <link>https://sumonamondal.github.io/post/2021-01-19-cunews/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sumonamondal.github.io/post/2021-01-19-cunews/</guid>
+      <description>&lt;h2 id=&#34;clarkson-university-news-link-attached-below&#34;&gt;Clarkson University news link attached below:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://www.clarkson.edu/news/clarkson-university-professors-receive-office-naval-research-grant-development-viscoelastic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CU News&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Bayesian Model to Analyze the Association of Rheumatoid Arthritis with Risk Factors and Their Interactions</title>
-      <link>https://smondal.github.io/publication/lufkin-bayesian-2021/</link>
+      <link>https://sumonamondal.github.io/publication/lufkin-bayesian-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/lufkin-bayesian-2021/</guid>
+      <guid>https://sumonamondal.github.io/publication/lufkin-bayesian-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collision-based electrochemical detection of lysozyme aggregation</title>
-      <link>https://smondal.github.io/publication/kirk-collision-based-2021/</link>
+      <link>https://sumonamondal.github.io/publication/kirk-collision-based-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/kirk-collision-based-2021/</guid>
+      <guid>https://sumonamondal.github.io/publication/kirk-collision-based-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential Impact of COVID-19 Risk Factors on Ethnicities in the United States</title>
-      <link>https://smondal.github.io/publication/athavale-differential-2021/</link>
+      <link>https://sumonamondal.github.io/publication/athavale-differential-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/athavale-differential-2021/</guid>
+      <guid>https://sumonamondal.github.io/publication/athavale-differential-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Factors Influencing Success in Advanced Engineering Mathematics Courses: A Case Study</title>
-      <link>https://smondal.github.io/publication/athavale-factors-2021/</link>
+      <link>https://sumonamondal.github.io/publication/athavale-factors-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/athavale-factors-2021/</guid>
+      <guid>https://sumonamondal.github.io/publication/athavale-factors-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of sociodemographic factors on dental caries in children and availing fluoride treatment: a study based on National Survey of Children’s Health (NSCH) data 2016-2019</title>
-      <link>https://smondal.github.io/publication/sathiyakumar-impact-2021/</link>
+      <link>https://sumonamondal.github.io/publication/sathiyakumar-impact-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/sathiyakumar-impact-2021/</guid>
+      <guid>https://sumonamondal.github.io/publication/sathiyakumar-impact-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prevalence of Common Comorbidities in Rheumatoid Arthritis in Rural New York Compared With National Data</title>
-      <link>https://smondal.github.io/publication/fuller-prevalence-2021/</link>
+      <link>https://sumonamondal.github.io/publication/fuller-prevalence-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/fuller-prevalence-2021/</guid>
+      <guid>https://sumonamondal.github.io/publication/fuller-prevalence-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Six minutes of physical activity improves mood in older adults: a pilot study</title>
-      <link>https://smondal.github.io/publication/boolani-six-2021/</link>
+      <link>https://sumonamondal.github.io/publication/boolani-six-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/boolani-six-2021/</guid>
+      <guid>https://sumonamondal.github.io/publication/boolani-six-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Socioeconomic Factors Associated With the Risk and Prevalence of Dental Caries and Dental Treatment Trends in Children: A Cross-Sectional Analysis of National Survey of Children&#39;s Health (NSCH) Data, 2016-2019</title>
-      <link>https://smondal.github.io/publication/vasireddy-socioeconomic-2021/</link>
+      <link>https://sumonamondal.github.io/publication/vasireddy-socioeconomic-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/vasireddy-socioeconomic-2021/</guid>
+      <guid>https://sumonamondal.github.io/publication/vasireddy-socioeconomic-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caffeine-containing, adaptogenic-rich drink modulates the effects of caffeine on mental performance and cognitive parameters: a double-blinded, placebo-controlled, randomized trial</title>
-      <link>https://smondal.github.io/publication/boolani-caffeine-containing-2020/</link>
+      <link>https://sumonamondal.github.io/publication/boolani-caffeine-containing-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/boolani-caffeine-containing-2020/</guid>
+      <guid>https://sumonamondal.github.io/publication/boolani-caffeine-containing-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Estimating PM2. 5 from photographs</title>
-      <link>https://smondal.github.io/publication/pudasaini-estimating-2020/</link>
+      <link>https://sumonamondal.github.io/publication/pudasaini-estimating-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/pudasaini-estimating-2020/</guid>
+      <guid>https://sumonamondal.github.io/publication/pudasaini-estimating-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>When trusted black boxes don&#39;t agree: Incentivizing iterative improvement and accountability in critical software systems</title>
-      <link>https://smondal.github.io/publication/matthews-when-2020/</link>
+      <link>https://sumonamondal.github.io/publication/matthews-when-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/matthews-when-2020/</guid>
+      <guid>https://sumonamondal.github.io/publication/matthews-when-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://smondal.github.io/slides/example/</link>
+      <link>https://sumonamondal.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/slides/example/</guid>
+      <guid>https://sumonamondal.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -426,97 +438,97 @@ $$&lt;/p&gt;
     
     <item>
       <title>Establishmentandoptimization of epithelial cell culturesfrom human ectocervix, transformation zone, and endocervix optimization of epithelial cell cultures</title>
-      <link>https://smondal.github.io/publication/deng-establishmentandoptimization-2019/</link>
+      <link>https://sumonamondal.github.io/publication/deng-establishmentandoptimization-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/deng-establishmentandoptimization-2019/</guid>
+      <guid>https://sumonamondal.github.io/publication/deng-establishmentandoptimization-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potential biomarkers of the mature intervertebral disc identified at the single cell level</title>
-      <link>https://smondal.github.io/publication/li-potential-2019/</link>
+      <link>https://sumonamondal.github.io/publication/li-potential-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/li-potential-2019/</guid>
+      <guid>https://sumonamondal.github.io/publication/li-potential-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictors of feelings of energy differ from predictors of fatigue among graduate health sciences students</title>
-      <link>https://smondal.github.io/publication/boolani-predictors-2019/</link>
+      <link>https://sumonamondal.github.io/publication/boolani-predictors-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/boolani-predictors-2019/</guid>
+      <guid>https://sumonamondal.github.io/publication/boolani-predictors-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantitative single-cell transcript assessment of biomarkers supports cellular heterogeneity in the bovine IVD</title>
-      <link>https://smondal.github.io/publication/li-quantitative-2019/</link>
+      <link>https://sumonamondal.github.io/publication/li-quantitative-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/li-quantitative-2019/</guid>
+      <guid>https://sumonamondal.github.io/publication/li-quantitative-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HPV16-immortalized cells from human transformation zone and endocervix are more dysplastic than ectocervical cells in organotypic culture</title>
-      <link>https://smondal.github.io/publication/deng-hpv-16-immortalized-2018/</link>
+      <link>https://sumonamondal.github.io/publication/deng-hpv-16-immortalized-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/deng-hpv-16-immortalized-2018/</guid>
+      <guid>https://sumonamondal.github.io/publication/deng-hpv-16-immortalized-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increased lumbar spinal column laxity due to low-angle, low-load cyclic flexion may predispose to acute injury</title>
-      <link>https://smondal.github.io/publication/gale-increased-2018/</link>
+      <link>https://sumonamondal.github.io/publication/gale-increased-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/gale-increased-2018/</guid>
+      <guid>https://sumonamondal.github.io/publication/gale-increased-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predictors of feelings of energy differ from predictors of fatigue</title>
-      <link>https://smondal.github.io/publication/boolani-predictors-2018/</link>
+      <link>https://sumonamondal.github.io/publication/boolani-predictors-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/boolani-predictors-2018/</guid>
+      <guid>https://sumonamondal.github.io/publication/boolani-predictors-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Susceptibility of epithelial cells cultured from different regions of human cervix to HPV16-induced immortalization</title>
-      <link>https://smondal.github.io/publication/han-deng-susceptibility-2018/</link>
+      <link>https://sumonamondal.github.io/publication/han-deng-susceptibility-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/han-deng-susceptibility-2018/</guid>
+      <guid>https://sumonamondal.github.io/publication/han-deng-susceptibility-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cold induced mortality of the Burmese Python: an explanation via stochastic analysis</title>
-      <link>https://smondal.github.io/publication/quansah-cold-2017/</link>
+      <link>https://sumonamondal.github.io/publication/quansah-cold-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/quansah-cold-2017/</guid>
+      <guid>https://sumonamondal.github.io/publication/quansah-cold-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indian English evolution and focusing visible through power laws</title>
-      <link>https://smondal.github.io/publication/chand-indian-2017/</link>
+      <link>https://sumonamondal.github.io/publication/chand-indian-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/chand-indian-2017/</guid>
+      <guid>https://sumonamondal.github.io/publication/chand-indian-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>External Project</title>
-      <link>https://smondal.github.io/project/external-project/</link>
+      <link>https://sumonamondal.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/project/external-project/</guid>
+      <guid>https://sumonamondal.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>https://smondal.github.io/project/internal-project/</link>
+      <link>https://sumonamondal.github.io/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/project/internal-project/</guid>
+      <guid>https://sumonamondal.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -527,186 +539,198 @@ $$&lt;/p&gt;
     
     <item>
       <title>An evaluation of the impact of flooring types on exposures to fine and coarse particles within the residential micro-environment using CONTAM</title>
-      <link>https://smondal.github.io/publication/bramwell-evaluation-2016/</link>
+      <link>https://sumonamondal.github.io/publication/bramwell-evaluation-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/bramwell-evaluation-2016/</guid>
+      <guid>https://sumonamondal.github.io/publication/bramwell-evaluation-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A cross-sectional survey assessing sources of movement-related fear among people with fibromyalgia syndrome</title>
-      <link>https://smondal.github.io/publication/russek-cross-sectional-2015/</link>
+      <link>https://sumonamondal.github.io/publication/russek-cross-sectional-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/russek-cross-sectional-2015/</guid>
+      <guid>https://sumonamondal.github.io/publication/russek-cross-sectional-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian analysis of factors associated with fibromyalgia syndrome subjects</title>
-      <link>https://smondal.github.io/publication/jayawardana-bayesian-2015/</link>
+      <link>https://sumonamondal.github.io/publication/jayawardana-bayesian-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/jayawardana-bayesian-2015/</guid>
+      <guid>https://sumonamondal.github.io/publication/jayawardana-bayesian-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparative study of methanogens in one-and two-stage anaerobic digester treating food waste</title>
-      <link>https://smondal.github.io/publication/kinnunen-comparative-2015/</link>
+      <link>https://sumonamondal.github.io/publication/kinnunen-comparative-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/kinnunen-comparative-2015/</guid>
+      <guid>https://sumonamondal.github.io/publication/kinnunen-comparative-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensitivity analysis of a viscoelastic parameterization for gravity wave dispersion in ice covered seas</title>
-      <link>https://smondal.github.io/publication/li-sensitivity-2015/</link>
+      <link>https://sumonamondal.github.io/publication/li-sensitivity-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/li-sensitivity-2015/</guid>
+      <guid>https://sumonamondal.github.io/publication/li-sensitivity-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A comparative study of walking-induced dust resuspension using a consistent test mechanism</title>
-      <link>https://smondal.github.io/publication/tian-comparative-2014/</link>
+      <link>https://sumonamondal.github.io/publication/tian-comparative-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/tian-comparative-2014/</guid>
+      <guid>https://sumonamondal.github.io/publication/tian-comparative-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An evolutionary domain-specific risk scale.</title>
-      <link>https://smondal.github.io/publication/wilke-evolutionary-2014/</link>
+      <link>https://sumonamondal.github.io/publication/wilke-evolutionary-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/wilke-evolutionary-2014/</guid>
+      <guid>https://sumonamondal.github.io/publication/wilke-evolutionary-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cyclic cryopreservation affects the nanoscale material properties of trabecular bone</title>
-      <link>https://smondal.github.io/publication/landauer-cyclic-2014/</link>
+      <link>https://sumonamondal.github.io/publication/landauer-cyclic-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/landauer-cyclic-2014/</guid>
+      <guid>https://sumonamondal.github.io/publication/landauer-cyclic-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gaseous elemental mercury (GEM) emissions from snow surfaces in Northern New York</title>
-      <link>https://smondal.github.io/publication/maxwell-gaseous-2013/</link>
+      <link>https://sumonamondal.github.io/publication/maxwell-gaseous-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/maxwell-gaseous-2013/</guid>
+      <guid>https://sumonamondal.github.io/publication/maxwell-gaseous-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interdisciplinary biomathematics: engaging undergraduates in research on the fringe of mathematical biology</title>
-      <link>https://smondal.github.io/publication/fowler-interdisciplinary-2013/</link>
+      <link>https://sumonamondal.github.io/publication/fowler-interdisciplinary-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/fowler-interdisciplinary-2013/</guid>
+      <guid>https://sumonamondal.github.io/publication/fowler-interdisciplinary-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variation in concentrations of three mercury (Hg) forms at a rural and a suburban site in New York State</title>
-      <link>https://smondal.github.io/publication/choi-variation-2013/</link>
+      <link>https://sumonamondal.github.io/publication/choi-variation-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/choi-variation-2013/</guid>
+      <guid>https://sumonamondal.github.io/publication/choi-variation-2013/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Human papillomavirus type 16 E6 and E 7 proteins alter NF-kB in cultured cervical epithelial cells and inhibition of NF-kB promotes cell growth and immortalization</title>
-      <link>https://smondal.github.io/publication/vandermark-human-2012/</link>
+      <link>https://sumonamondal.github.io/publication/vandermark-human-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/vandermark-human-2012/</guid>
+      <guid>https://sumonamondal.github.io/publication/vandermark-human-2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of model parameters for a polymer filtration simulator</title>
-      <link>https://smondal.github.io/publication/brackett-rozinsky-analysis-2011/</link>
+      <link>https://sumonamondal.github.io/publication/brackett-rozinsky-analysis-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/brackett-rozinsky-analysis-2011/</guid>
+      <guid>https://sumonamondal.github.io/publication/brackett-rozinsky-analysis-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decay of bacterial pathogens, fecal indicators, and real-time quantitative PCR genetic markers in manure-amended soils</title>
-      <link>https://smondal.github.io/publication/rogers-decay-2011/</link>
+      <link>https://sumonamondal.github.io/publication/rogers-decay-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/rogers-decay-2011/</guid>
+      <guid>https://sumonamondal.github.io/publication/rogers-decay-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inhibition of the epidermal growth factor receptor by erlotinib prevents immortalization of human cervical cells by Human Papillomavirus type 16</title>
-      <link>https://smondal.github.io/publication/woodworth-inhibition-2011/</link>
+      <link>https://sumonamondal.github.io/publication/woodworth-inhibition-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/woodworth-inhibition-2011/</guid>
+      <guid>https://sumonamondal.github.io/publication/woodworth-inhibition-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pathogen reduction and factors responsible for pathogen reduction in dairy farm operations treating dairy manure</title>
-      <link>https://smondal.github.io/publication/narula-pathogen-2011/</link>
+      <link>https://sumonamondal.github.io/publication/narula-pathogen-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/narula-pathogen-2011/</guid>
+      <guid>https://sumonamondal.github.io/publication/narula-pathogen-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting home and community walking activity in people with stroke</title>
-      <link>https://smondal.github.io/publication/fulk-predicting-2010/</link>
+      <link>https://sumonamondal.github.io/publication/fulk-predicting-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/fulk-predicting-2010/</guid>
+      <guid>https://sumonamondal.github.io/publication/fulk-predicting-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effects of diabetes and/or peripheral neuropathy in detecting short postural perturbations in mature adults</title>
-      <link>https://smondal.github.io/publication/fulk-effects-2010/</link>
+      <link>https://sumonamondal.github.io/publication/fulk-effects-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/fulk-effects-2010/</guid>
+      <guid>https://sumonamondal.github.io/publication/fulk-effects-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tolerance intervals for the distribution of the difference between two independent normal random variables</title>
-      <link>https://smondal.github.io/publication/krishnamoorthy-tolerance-2010/</link>
+      <link>https://sumonamondal.github.io/publication/krishnamoorthy-tolerance-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/krishnamoorthy-tolerance-2010/</guid>
+      <guid>https://sumonamondal.github.io/publication/krishnamoorthy-tolerance-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimization of anaerobic digestion model no. 1 (ADM1): simulation of dairy manure digestion</title>
-      <link>https://smondal.github.io/publication/zhang-optimization-2009/</link>
+      <link>https://sumonamondal.github.io/publication/zhang-optimization-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/zhang-optimization-2009/</guid>
+      <guid>https://sumonamondal.github.io/publication/zhang-optimization-2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tolerance factors in multiple and multivariate linear regressions</title>
-      <link>https://smondal.github.io/publication/krishnamoorthy-tolerance-2008/</link>
+      <link>https://sumonamondal.github.io/publication/krishnamoorthy-tolerance-2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/krishnamoorthy-tolerance-2008/</guid>
+      <guid>https://sumonamondal.github.io/publication/krishnamoorthy-tolerance-2008/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improved tolerance factors for multivariate normal distributions</title>
-      <link>https://smondal.github.io/publication/krishnamoorthy-improved-2006/</link>
+      <link>https://sumonamondal.github.io/publication/krishnamoorthy-improved-2006/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/publication/krishnamoorthy-improved-2006/</guid>
+      <guid>https://sumonamondal.github.io/publication/krishnamoorthy-improved-2006/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://smondal.github.io/admin/config.yml</link>
+      <link>https://sumonamondal.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/admin/config.yml</guid>
+      <guid>https://sumonamondal.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Research Group</title>
+      <link>https://sumonamondal.github.io/researchgroup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sumonamondal.github.io/researchgroup/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Current PhD Student&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vijay Kumar&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

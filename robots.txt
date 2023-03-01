@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://smondal.github.io/sitemap.xml
+Sitemap: https://sumonamondal.github.io/sitemap.xml

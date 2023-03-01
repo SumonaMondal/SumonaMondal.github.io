@@ -2,24 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Sumona Mondal</title>
-    <link>https://smondal.github.io/tag/academic/</link>
-      <atom:link href="https://smondal.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sumonamondal.github.io/tag/academic/</link>
+      <atom:link href="https://sumonamondal.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://smondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://sumonamondal.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://smondal.github.io/tag/academic/</link>
+      <link>https://sumonamondal.github.io/tag/academic/</link>
     </image>
     
     <item>
-      <title>Clarkson Ph.D. Candidate Co-Chairs a session at the American Association for Aerosol Research (AAAR)</title>
-      <link>https://smondal.github.io/post/2022-11-04-cunews/</link>
-      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://smondal.github.io/post/2022-11-04-cunews/</guid>
+      <title>Clarkson Chemistry Professor Awarded $164K Grant from the National Institutes of Health</title>
+      <link>https://sumonamondal.github.io/post/2022-08-23-cunews/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://sumonamondal.github.io/post/2022-08-23-cunews/</guid>
       <description>&lt;h2 id=&#34;clarkson-university-news-link-attached-below&#34;&gt;Clarkson University news link attached below:&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://www.clarkson.edu/news/clarkson-phd-candidate-co-chairs-session-american-association-aerosol-research-aaar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CU News&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://www.clarkson.edu/news/clarkson-chemistry-professor-awarded-164k-grant-national-institutes-health&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CU News&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clarkson University Professors Receive Office of Naval Research Grant for Development of a Viscoelastic-Plastic Approach to Static Strength Prediction of Bonded Joints</title>
+      <link>https://sumonamondal.github.io/post/2021-01-19-cunews/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://sumonamondal.github.io/post/2021-01-19-cunews/</guid>
+      <description>&lt;h2 id=&#34;clarkson-university-news-link-attached-below&#34;&gt;Clarkson University news link attached below:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://www.clarkson.edu/news/clarkson-university-professors-receive-office-naval-research-grant-development-viscoelastic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CU News&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
